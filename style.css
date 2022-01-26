@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./img1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.quizBox{
+    border: 1px solid black;
+    border-radius: 3em;
+}
+*{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    
+    
+}
